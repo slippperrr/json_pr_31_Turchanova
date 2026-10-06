@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Turchanova_JSON</string>
+    <string name="name_t">Название товара</string>
+    <string name="price">Цена</string>
+    <string name="tags">Теги через запятую</string>
+    <string name="but1">Объект, созданный руками</string>
+    <string name="but2">Объект из полей ввода</string>
+    <string name="but3">Самопроверка ошибок</string>
+</resources>
